@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: dimgray;
+    background-color: whitesmoke;
+}
+
+a {
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+        }
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#interests {
+    border: 2px solid green;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+#girlPower {
+    border: 2px dashed green;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  #swifte {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+
+
+
